@@ -6,4 +6,5 @@ public class C{
 
     public void MC1(){return Console.WriteLine(sf.GetMethod());}
     public void MC2(){return Console.WriteLine(sf.GetMethod());}
+	!!!!	
     }
